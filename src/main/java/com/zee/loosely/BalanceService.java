@@ -1,4 +1,4 @@
-package com.cydeo.loosely;
+package com.zee.loosely;
 
 import lombok.Getter;
 import lombok.Setter;

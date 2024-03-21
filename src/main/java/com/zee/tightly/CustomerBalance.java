@@ -1,4 +1,4 @@
-package com.cydeo.tightly;
+package com.zee.tightly;
 
 import lombok.Getter;
 import lombok.Setter;
